@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
 }
 
-/*---Header--- */
+/*-Header*/
 header {
     background-color: #1a3a5c;
     color: #ffffff;
@@ -27,7 +27,7 @@ header h1 {
     letter-spacing: 1px;
 }
 
-/*---Navigation---*/
+/*-Navigation*/
 nav {
     margin-top: 8px;
 }
@@ -97,7 +97,7 @@ p {
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
-/*Photos*/
+/*-Photos*/
 .photo-row {
     display: flex;
     gap: 24px;
@@ -105,8 +105,8 @@ p {
 }
 
 .profile-photo {
-    width: 160px;
-    height: 160px;
+    width: 200px;
+    height: 200px;
     object-fit: cover;
     border: 3px solid #1a3a5c;
     border-radius: 6px;
@@ -123,8 +123,8 @@ figure {
 }
 
 .section-photo-img {
-    width: 200px;
-    height: 200px;
+    width: 225px;
+    height: 225px;
     object-fit: cover;
     border: 3px solid #1a3a5c;
     border-radius: 6px;
@@ -137,7 +137,7 @@ figcaption {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*-Aside / Interests & Skills */
+/*-Interests & Skills */
 .details {
     display: flex;
     gap: 24px;
@@ -235,7 +235,7 @@ a:hover {
     color: #1a3a5c;
 }
 
-/* --- Activities Section --- */
+/*-Activities Section*/
 .activities ul {
     list-style: disc;
     padding-left: 22px;
@@ -247,7 +247,7 @@ a:hover {
     margin-bottom: 6px;
 }
 
-/* --- Note Box (box model: border, margin, padding) --- */
+/*-Note Box*/
 .note-box {
     background-color: #fff8e6;
     border: 2px solid #f0a500;
@@ -256,7 +256,7 @@ a:hover {
     padding: 18px 22px;
 }
 
-/* --- Footer --- */
+/*-Footer*/
 footer {
     background-color: #1a3a5c;
     color: #ccddee;
